@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "web-application",
+    "title": "Web Application",
+    "type": "Professional",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["React", "TypeScript", "Tailwind CSS", "Next.js"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/web-application",
+      "demo": "https://demo.example.com",
+      "writeup": null
+    },
+    "featured": true,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "data-analysis-project",
+    "title": "Data Analysis Project",
+    "type": "Academic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["Python", "SQL", "PostgreSQL", "Data Analysis"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/data-analysis-project",
+      "demo": null,
+      "writeup": null
+    },
+    "featured": true,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "card-game-application",
+    "title": "Card Game Application",
+    "type": "Academic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["Java", "OOP", "Design Patterns"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/card-game-application",
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "algorithm-implementation",
+    "title": "Algorithm Implementation",
+    "type": "Academic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["C++", "Algorithms", "Data Structures"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/algorithm-implementation",
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "web-development-project",
+    "title": "Web Development Project",
+    "type": "Academic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["JavaScript", "Node.js", "Express", "MongoDB"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/web-development-project",
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "machine-learning-project",
+    "title": "Machine Learning Project",
+    "type": "Academic",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["Python", "Machine Learning", "Data Science"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/machine-learning-project",
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "game-development-project",
+    "title": "Game Development Project",
+    "type": "Personal",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["TypeScript", "React", "Game Development"],
+    "highlights": [
+      "Lorem ipsum dolor sit amet",
+      "Consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt"
+    ],
+    "links": {
+      "github": "https://github.com/yourusername/game-development-project",
+      "demo": "https://demo.example.com",
+      "writeup": null
+    },
+    "featured": true,
+    "tldr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "myRole": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "architecture": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "keyDecisions": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "Sed do eiusmod tempor incididunt ut labore et dolore",
+      "Ut enim ad minim veniam, quis nostrud exercitation"
+    ],
+    "results": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "slug": "project-placeholder-1",
+    "title": "Project Placeholder 1",
+    "type": "Personal",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["TBD"],
+    "highlights": ["TBD"],
+    "links": {
+      "github": null,
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "TBD",
+    "context": "TBD",
+    "myRole": "TBD",
+    "architecture": "TBD",
+    "keyDecisions": ["TBD"],
+    "results": "TBD"
+  },
+  {
+    "slug": "project-placeholder-2",
+    "title": "Project Placeholder 2",
+    "type": "Professional",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["TBD"],
+    "highlights": ["TBD"],
+    "links": {
+      "github": null,
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "TBD",
+    "context": "TBD",
+    "myRole": "TBD",
+    "architecture": "TBD",
+    "keyDecisions": ["TBD"],
+    "results": "TBD"
+  },
+  {
+    "slug": "project-placeholder-3",
+    "title": "Project Placeholder 3",
+    "type": "Personal",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "stack": ["TBD"],
+    "highlights": ["TBD"],
+    "links": {
+      "github": null,
+      "demo": null,
+      "writeup": null
+    },
+    "featured": false,
+    "tldr": "TBD",
+    "context": "TBD",
+    "myRole": "TBD",
+    "architecture": "TBD",
+    "keyDecisions": ["TBD"],
+    "results": "TBD"
+  }
+]
