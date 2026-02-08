@@ -2,6 +2,15 @@
 
 A production-quality Next.js (App Router) portfolio/blog starter template with a minimalist, professional design. Built with TypeScript, Tailwind CSS, and MDX for content management.
 
+## 🎯 Who is this for?
+
+This template is designed for:
+- Software engineers who want a professional portfolio + blog
+- Students and early-career developers building a public profile
+- Developers who want a static, content-driven site without a backend
+- Anyone who wants a clean Next.js App Router starter for personal sites
+
+
 ## 🚀 Features
 
 - **Next.js 14 App Router** with TypeScript
